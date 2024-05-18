@@ -11,3 +11,5 @@ npm install vue3-carousel
 ```sh
 npm install chart.js
 ```
+
+## Hydratation keeper application 
