@@ -1,4 +1,4 @@
-# Dependencies
+<!-- # Dependencies
 
 ```sh
 npm install vue-chartjs chart.js
@@ -12,4 +12,10 @@ npm install vue3-carousel
 npm install chart.js
 ```
 
-## Hydratation keeper application 
+## Hydratation keeper application  -->
+
+# Destription
+
+## Front-end
+
+## Backend
